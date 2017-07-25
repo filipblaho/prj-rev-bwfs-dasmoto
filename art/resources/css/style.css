@@ -1,0 +1,14 @@
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center horizontal;
+  background-image: url ("./art/resources/pattern.jpeg");
+}
+.green {
+  background-color: green;
+}
+.blue {
+  color: blue;
+}
